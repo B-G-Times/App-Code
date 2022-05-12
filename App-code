@@ -1,0 +1,2 @@
+WebView myWebView = (WebView) findViewById(R.id.webview);
+myWebView.loadUrl("http://nanocrypt.wixsite.com/bad-and-good-times");
